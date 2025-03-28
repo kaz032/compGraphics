@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\faiza\source\repos\comp_graphics_CCGXNL\comp_graphics_CCGXNL\main.cpp(14,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\faiza\source\repos\comp_graphics_CCGXNL\comp_graphics_CCGXNL\main.cpp(117,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  comp_graphics_CCGXNL.vcxproj -> C:\Users\faiza\source\repos\comp_graphics_CCGXNL\x64\Debug\comp_graphics_CCGXNL.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
