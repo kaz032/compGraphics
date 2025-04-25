@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\faiza\source\repos\ComputerGraphics_BZCurve_CCGXNL\Source.cpp(168,44): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\faiza\source\repos\ComputerGraphics_BZCurve_CCGXNL\Source.cpp(172,48): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  ComputerGraphics_BZCurve_CCGXNL.vcxproj -> C:\Users\faiza\source\repos\ComputerGraphics_BZCurve_CCGXNL\x64\Debug\ComputerGraphics_BZCurve_CCGXNL.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
