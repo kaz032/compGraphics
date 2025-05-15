@@ -1,0 +1,3 @@
+C:\Users\faiza\source\repos\ComputerGraphics_Assignment3_CCGXNL\x64\Debug\glew32d.dll
+C:\Users\faiza\source\repos\ComputerGraphics_Assignment3_CCGXNL\x64\Debug\glfw3.dll
+C:\Users\faiza\source\repos\ComputerGraphics_Assignment3_CCGXNL\Computer.29a05dbc\x64\Debug\Computer.24588387.Up2Date

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\faiza\source\repos\ComputerGraphics_Assignment3_CCGXNL\Source.cpp(357,49): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  ComputerGraphics_Assignment3_CCGXNL.vcxproj -> C:\Users\faiza\source\repos\ComputerGraphics_Assignment3_CCGXNL\x64\Debug\ComputerGraphics_Assignment3_CCGXNL.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
