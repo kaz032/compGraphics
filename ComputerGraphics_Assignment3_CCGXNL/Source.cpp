@@ -445,7 +445,7 @@ int main() {
             1, GL_FALSE, projectionMatrix);
 
         // Light animation
-        lightOrbitAngle += 0.005f;
+        lightOrbitAngle += 0.0015f;
         float lightX = 4.0f * cos(lightOrbitAngle);
         float lightZ = 4.0f * sin(lightOrbitAngle);
         glUniform3f(glGetUniformLocation(mainShaderProgram, "lightPosition"),
